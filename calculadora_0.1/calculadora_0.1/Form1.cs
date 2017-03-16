@@ -142,5 +142,10 @@ namespace calculadora_0._1
                     break;
             }
         }
+
+        private void btn_Int_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ingrantes do Grupo: Rodrigo Celestiano e Anderson Gonzaga da Fonseca");
+        }
     }
 }

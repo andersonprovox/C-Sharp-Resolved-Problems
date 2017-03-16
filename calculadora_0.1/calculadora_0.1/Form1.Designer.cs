@@ -47,6 +47,7 @@
             this.btnMenos = new System.Windows.Forms.Button();
             this.btnMais = new System.Windows.Forms.Button();
             this.btn_Limpar = new System.Windows.Forms.Button();
+            this.btn_Int = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtDisplay
@@ -259,11 +260,22 @@
             this.btn_Limpar.Click += new System.EventHandler(this.btn_Limpar_Click);
             this.btn_Limpar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Form1_KeyPress);
             // 
+            // btn_Int
+            // 
+            this.btn_Int.Location = new System.Drawing.Point(282, 70);
+            this.btn_Int.Name = "btn_Int";
+            this.btn_Int.Size = new System.Drawing.Size(75, 23);
+            this.btn_Int.TabIndex = 19;
+            this.btn_Int.Text = "Integrantes";
+            this.btn_Int.UseVisualStyleBackColor = true;
+            this.btn_Int.Click += new System.EventHandler(this.btn_Int_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(409, 227);
+            this.Controls.Add(this.btn_Int);
             this.Controls.Add(this.btn_Limpar);
             this.Controls.Add(this.btnDiv);
             this.Controls.Add(this.btnMulti);
@@ -315,6 +327,7 @@
         private System.Windows.Forms.Button btnMenos;
         private System.Windows.Forms.Button btnMais;
         private System.Windows.Forms.Button btn_Limpar;
+        private System.Windows.Forms.Button btn_Int;
     }
 }
 
