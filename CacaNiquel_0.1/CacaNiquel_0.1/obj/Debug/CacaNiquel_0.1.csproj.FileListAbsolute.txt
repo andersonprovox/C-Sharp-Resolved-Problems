@@ -7,3 +7,12 @@ C:\Users\ander\Documents\Visual Studio 2015\Projects\CacaNiquel_0.1\CacaNiquel_0
 C:\Users\ander\Documents\Visual Studio 2015\Projects\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.csproj.GenerateResource.Cache
 C:\Users\ander\Documents\Visual Studio 2015\Projects\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.exe
 C:\Users\ander\Documents\Visual Studio 2015\Projects\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.pdb
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\bin\Debug\CacaNiquel_0.1.exe.config
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.exe
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.pdb
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\bin\Debug\CacaNiquel_0.1.exe
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\bin\Debug\CacaNiquel_0.1.pdb
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0._1.Form1.resources
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0._1.Properties.Resources.resources
+E:\Executaveis liberados\CacaNiquel_0.1\CacaNiquel_0.1\obj\Debug\CacaNiquel_0.1.csproj.GenerateResource.Cache

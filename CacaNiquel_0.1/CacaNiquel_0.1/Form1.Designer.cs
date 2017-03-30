@@ -33,8 +33,10 @@
             this.lblUm = new System.Windows.Forms.Label();
             this.lblDois = new System.Windows.Forms.Label();
             this.lblTres = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblResult = new System.Windows.Forms.Label();
+            this.lblCont = new System.Windows.Forms.Label();
+            this.lblSorte = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -91,6 +93,32 @@
             this.lblTres.Text = "0";
             this.lblTres.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // lblResult
+            // 
+            this.lblResult.AutoSize = true;
+            this.lblResult.Location = new System.Drawing.Point(10, 108);
+            this.lblResult.Name = "lblResult";
+            this.lblResult.Size = new System.Drawing.Size(0, 13);
+            this.lblResult.TabIndex = 7;
+            // 
+            // lblCont
+            // 
+            this.lblCont.AutoSize = true;
+            this.lblCont.Location = new System.Drawing.Point(12, 141);
+            this.lblCont.Name = "lblCont";
+            this.lblCont.Size = new System.Drawing.Size(0, 13);
+            this.lblCont.TabIndex = 8;
+            // 
+            // lblSorte
+            // 
+            this.lblSorte.AutoSize = true;
+            this.lblSorte.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSorte.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.lblSorte.Location = new System.Drawing.Point(13, 175);
+            this.lblSorte.Name = "lblSorte";
+            this.lblSorte.Size = new System.Drawing.Size(0, 15);
+            this.lblSorte.TabIndex = 9;
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::CacaNiquel_0._1.Properties.Resources.caca;
@@ -101,19 +129,13 @@
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
             // 
-            // lblResult
-            // 
-            this.lblResult.AutoSize = true;
-            this.lblResult.Location = new System.Drawing.Point(13, 108);
-            this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(0, 13);
-            this.lblResult.TabIndex = 7;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(469, 239);
+            this.Controls.Add(this.lblSorte);
+            this.Controls.Add(this.lblCont);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblTres);
@@ -123,6 +145,7 @@
             this.Controls.Add(this.btnGirar);
             this.Name = "Form1";
             this.Text = "Caça Niquel";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -138,6 +161,8 @@
         private System.Windows.Forms.Label lblTres;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblResult;
+        private System.Windows.Forms.Label lblCont;
+        private System.Windows.Forms.Label lblSorte;
     }
 }
 
