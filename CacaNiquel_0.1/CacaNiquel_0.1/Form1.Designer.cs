@@ -37,6 +37,7 @@
             this.lblCont = new System.Windows.Forms.Label();
             this.lblSorte = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnIntegrantes = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -129,11 +130,22 @@
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
             // 
+            // btnIntegrantes
+            // 
+            this.btnIntegrantes.Location = new System.Drawing.Point(367, 108);
+            this.btnIntegrantes.Name = "btnIntegrantes";
+            this.btnIntegrantes.Size = new System.Drawing.Size(75, 23);
+            this.btnIntegrantes.TabIndex = 10;
+            this.btnIntegrantes.Text = "Integrantes";
+            this.btnIntegrantes.UseVisualStyleBackColor = true;
+            this.btnIntegrantes.Click += new System.EventHandler(this.btnIntegrantes_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(469, 239);
+            this.Controls.Add(this.btnIntegrantes);
             this.Controls.Add(this.lblSorte);
             this.Controls.Add(this.lblCont);
             this.Controls.Add(this.lblResult);
@@ -163,6 +175,7 @@
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Label lblCont;
         private System.Windows.Forms.Label lblSorte;
+        private System.Windows.Forms.Button btnIntegrantes;
     }
 }
 

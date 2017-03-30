@@ -34,6 +34,11 @@ namespace CacaNiquel_0._1
 
         }
 
+        private void btnIntegrantes_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Anderson Gonzaga da Fonseca \n RA 2215113348 \n Pedro do Carmo Souza \n RA 2215105040");
+        }
+
         private void btnGirar_Click(object sender, EventArgs e)
         {
             pictureBox1.Visible = false;
@@ -50,7 +55,7 @@ namespace CacaNiquel_0._1
                 pictureBox1.Image = Properties.Resources.trevo;
                 pictureBox1.Visible = true;
                 //chamando o beep quando um numero 7 aparecer
-                Beep(300, 300);
+                Beep(1000, 300);
                 contSort += 1;
                 lblSorte.Text = "Sortudo! Tirou \n todos os Setes \n " + contSort.ToString() + " Vez(es)";
                 
@@ -60,7 +65,7 @@ namespace CacaNiquel_0._1
                 pictureBox1.Image = Properties.Resources.dinheiro;
                 pictureBox1.Visible = true;
                 //chamando o beep quando todos os numeros 7 aparecerem
-                Beep(300, 300);
+                Beep(1000, 300);
                 lblResult.Text = "Você Tirou um 7!!,\n Parabens!!!";
                 cont += 1;
                 lblCont.Text = "Você acertou: " + cont.ToString() + " Vez(es)";
