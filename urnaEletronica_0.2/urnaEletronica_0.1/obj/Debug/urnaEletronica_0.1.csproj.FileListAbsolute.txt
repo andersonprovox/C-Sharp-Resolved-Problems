@@ -1,0 +1,13 @@
+c:\users\ander\documents\visual studio 2015\Projects\urnaEletronica_0.1\urnaEletronica_0.1\bin\Debug\urnaEletronica_0.1.exe.config
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\bin\Debug\urnaEletronica_0.1.exe.config
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\bin\Debug\urnaEletronica_0.1.exe
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\bin\Debug\urnaEletronica_0.1.pdb
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\obj\Debug\urnaEletronica_0.1.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\obj\Debug\urnaEletronica_0._1.Form1.resources
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\obj\Debug\urnaEletronica_0._1.Properties.Resources.resources
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\obj\Debug\urnaEletronica_0.1.csproj.GenerateResource.Cache
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\obj\Debug\urnaEletronica_0.1.exe
+E:\Executaveis liberados\urnaEletronica_0.1\urnaEletronica_0.1\obj\Debug\urnaEletronica_0.1.pdb
+E:\urnaEletronica_0.2\urnaEletronica_0.1\bin\Debug\urnaEletronica_0.1.exe.config
+E:\urnaEletronica_0.2\urnaEletronica_0.1\obj\Debug\urnaEletronica_0.1.exe
+E:\urnaEletronica_0.2\urnaEletronica_0.1\obj\Debug\urnaEletronica_0.1.pdb
