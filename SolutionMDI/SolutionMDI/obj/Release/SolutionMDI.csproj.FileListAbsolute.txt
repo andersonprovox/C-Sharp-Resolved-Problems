@@ -1,0 +1,12 @@
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\bin\Release\SolutionMDI.exe.config
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\bin\Release\SolutionMDI.exe
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\bin\Release\SolutionMDI.pdb
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.CadUser.resources
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.findUser.resources
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.Form1.resources
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.Properties.Resources.resources
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.Sobre.resources
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.Ticket.resources
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.csproj.GenerateResource.Cache
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.exe
+E:\Executaveis liberados\SolutionMDI\SolutionMDI\obj\Release\SolutionMDI.pdb
